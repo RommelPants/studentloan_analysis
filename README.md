@@ -10,20 +10,19 @@ Prerequisites:
 
 Jupyter notebook, Excel
 
-Built With
+Built With:
 
 Juypter Notebook - Coding source
 Excel - Data resource
 
-Authors
-
+Authors:
 
 Martin Wilson
 
 Mark Liang
 
-License
+License:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments
+Acknowledgments:
