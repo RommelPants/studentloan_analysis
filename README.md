@@ -7,7 +7,6 @@ Getting Started
 Download or clone a copy of the information provided. Input the data to be analyzed into the data folder. Afterwards, run the various programs that clean up and charts the data for a graph.
 
 Prerequisites
-
 Jupyter notebook
 Excel
 
