@@ -1,0 +1,57 @@
+,City: Large,Suburb: Small,Town: Distant,Town: Remote,Rural: Fringe,Rural: Remote,City: Midsize,City: Small,Suburb: Large,Town: Fringe,Rural: Distant,Suburb: Midsize
+Alaska,25%,23%,39%,19%,24%,2%,0%,0%,0%,0%,0%,0%
+Alabama,0%,0%,24%,63%,22%,37%,43%,33%,53%,35%,8%,0%
+Arkansas,0%,34%,43%,44%,12%,23%,51%,42%,4%,14%,22%,0%
+Arizona,37%,0%,0%,0%,13%,0%,44%,30%,16%,7%,0%,24%
+California,24%,23%,2%,42%,20%,0%,13%,15%,12%,32%,6%,14%
+Colorado,41%,0%,42%,25%,15%,24%,37%,51%,27%,0%,0%,0%
+Connecticut,0%,0%,0%,0%,79%,0%,32%,36%,46%,51%,0%,42%
+District of Columbia,43%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%
+Delaware,0%,0%,53%,0%,9%,0%,0%,34%,50%,0%,0%,0%
+Florida,27%,51%,10%,13%,15%,0%,49%,31%,32%,61%,52%,25%
+Georgia,43%,18%,43%,23%,15%,53%,42%,43%,43%,46%,48%,0%
+Hawaii,27%,0%,0%,22%,0%,0%,0%,10%,13%,12%,0%,11%
+Iowa,0%,0%,64%,47%,21%,56%,45%,49%,22%,68%,24%,0%
+Idaho,0%,62%,19%,12%,31%,0%,38%,36%,56%,0%,0%,58%
+Illinois,38%,43%,40%,53%,14%,0%,34%,37%,26%,75%,3%,48%
+Indiana,34%,63%,50%,14%,55%,0%,47%,41%,42%,0%,60%,40%
+Kansas,48%,0%,37%,33%,24%,75%,20%,44%,48%,43%,33%,0%
+Kentucky,40%,0%,41%,37%,21%,54%,0%,36%,46%,60%,58%,0%
+Louisiana,47%,55%,42%,64%,28%,0%,45%,42%,54%,64%,0%,66%
+Massachusetts,39%,0%,26%,0%,35%,0%,41%,43%,47%,44%,0%,70%
+Maryland,44%,55%,58%,0%,18%,0%,0%,28%,27%,63%,13%,30%
+Maine,0%,60%,47%,41%,38%,44%,0%,44%,0%,18%,41%,50%
+Michigan,39%,37%,65%,50%,22%,24%,25%,43%,49%,53%,28%,44%
+Minnesota,47%,0%,47%,33%,50%,0%,38%,45%,33%,45%,0%,62%
+Missouri,33%,67%,34%,38%,15%,72%,47%,49%,26%,62%,49%,0%
+Mississippi,0%,0%,19%,37%,12%,38%,71%,58%,65%,37%,23%,0%
+Montana,0%,0%,0%,43%,15%,0%,46%,48%,0%,0%,29%,0%
+North Carolina,47%,0%,32%,0%,7%,0%,46%,33%,33%,43%,9%,26%
+North Dakota,0%,0%,45%,36%,59%,30%,57%,44%,0%,0%,0%,0%
+Nebraska,40%,0%,55%,27%,64%,36%,0%,17%,41%,0%,36%,0%
+New Hampshire,0%,61%,70%,50%,65%,0%,48%,54%,0%,52%,75%,68%
+New Jersey,29%,0%,0%,0%,11%,0%,0%,43%,42%,20%,0%,65%
+New Mexico,30%,3%,18%,23%,19%,0%,28%,9%,4%,0%,0%,33%
+Nevada,21%,0%,48%,7%,27%,0%,32%,7%,57%,0%,0%,0%
+New York,25%,35%,50%,65%,27%,63%,48%,34%,39%,62%,61%,45%
+Ohio,41%,38%,53%,0%,37%,0%,40%,36%,53%,48%,31%,64%
+Oklahoma,30%,0%,40%,31%,0%,20%,0%,36%,39%,51%,31%,36%
+Oregon,38%,0%,53%,33%,23%,0%,39%,44%,26%,59%,0%,29%
+Pennsylvania,49%,61%,68%,69%,39%,0%,61%,54%,53%,62%,80%,60%
+Rhode Island,0%,0%,0%,0%,0%,0%,50%,15%,62%,0%,0%,0%
+South Carolina,0%,44%,50%,0%,36%,0%,45%,45%,37%,69%,70%,43%
+South Dakota,0%,0%,49%,53%,61%,0%,64%,62%,0%,11%,0%,0%
+Tennessee,43%,36%,29%,38%,5%,0%,42%,34%,18%,43%,20%,58%
+Texas,32%,49%,33%,34%,33%,25%,32%,20%,18%,32%,25%,9%
+Utah,0%,0%,27%,56%,0%,0%,25%,20%,43%,0%,0%,0%
+Virginia,59%,23%,31%,54%,11%,0%,44%,48%,27%,10%,17%,53%
+Vermont,0%,0%,48%,0%,20%,57%,0%,46%,0%,0%,66%,60%
+Washington,24%,59%,41%,12%,22%,0%,21%,21%,19%,67%,0%,27%
+Wisconsin,41%,39%,59%,69%,44%,0%,28%,49%,41%,31%,27%,36%
+West Virginia,0%,36%,51%,57%,32%,0%,0%,51%,0%,26%,74%,28%
+Wyoming,0%,29%,0%,25%,0%,0%,0%,19%,0%,0%,0%,0%
+,,,,,,,,,,,,
+"This table presents data items collected from Title IV institutions in the United States. Prior to 2009-10, the data include only Title IV primarily postsecondary institutions.",,,,,,,,,,,,
+Types of aid will not sum to students receiving any financial aid because students with more than one source of financial aid were counted for each type of aid they were awarded but were included only once in the any financial aid count.  Any financial aid can include Federal work study and other sources known to the institution.,,,,,,,,,,,,
+"SOURCE: U.S. Department of Education, National Center for Education Statistics, Integrated Postsecondary Education Data System (IPEDS), Student Financial Aid 2017-18 provisional data.",,,,,,,,,,,,
+"Prior to academic year 2010-11, the data represents students receiving aid, rather than students awarded aid. Students awarded aid include those who were awarded aid and accepted while student receiving aid include those who were awarded and disbursed aid",,,,,,,,,,,,
